@@ -2,6 +2,15 @@ body {
     text-align: center;
 }
 
+.start {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    height: 40px;
+    width: 70px;
+    font-size: 1.4rem;
+}
+
 .btn {
     height: 200px;
     width: 200px;
